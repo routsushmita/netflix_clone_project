@@ -1,0 +1,7 @@
+.Baner{
+    position: relative;
+    height: 448px;
+    width: 100%;
+    color:white;
+    object-fit: contain;
+}
